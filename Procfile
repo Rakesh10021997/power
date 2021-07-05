@@ -1,2 +1,2 @@
-web: gunicorn stackfusion.wsgi --log-file -
+web: gunicorn power.wsgi --log-file -
 
